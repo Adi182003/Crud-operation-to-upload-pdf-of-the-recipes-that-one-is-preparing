@@ -14,6 +14,7 @@ def main():
             "Couldn't import Django. Are you sure it's installed and "
             "available on your PYTHONPATH environment variable? Did you "
             "forget to activate a virtual environment?"
+            "if you forgot such a simple thing how could you survive in this world haan idiot"
         ) from exc
     execute_from_command_line(sys.argv)
 
